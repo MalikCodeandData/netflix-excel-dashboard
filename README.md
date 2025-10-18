@@ -6,7 +6,7 @@ This project is an interactive Excel dashboard built using the Netflix Titles da
 
 ## 🔧 Tools & Features
 
-- Microsoft Excel (365 - Mac)
+- Microsoft Excel
 - Pivot Tables
 - Pivot Charts (Bar, Column, Pie)
 - Slicers for interactivity
@@ -18,7 +18,7 @@ This project is an interactive Excel dashboard built using the Netflix Titles da
 - 🎬 **Movies vs TV Shows**: Distribution of content types on Netflix
 - 🌍 **Top Countries**: Countries producing the most titles
 - 🎭 **Popular Genres**: Most common genres across all titles
-- 🔞 **Content Ratings**: Breakdown by maturity rating (PG, TV-MA, etc.)
+- 🔞 **Content Ratings**: Breakdown by maturity rating
 - 📅 **Titles Added by Year**: Trends of content added over time
 
 ## 💡 Key Findings
